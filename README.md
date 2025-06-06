@@ -1,4 +1,6 @@
-## Hi there 👋
+hello my name is mohammad nabaa
+I am a computer science student
+
 
 <!--
 **mohammadnabaa/mohammadnabaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
